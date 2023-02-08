@@ -1,0 +1,1 @@
+/* fetch data frm API or create json file and then fetch data from json file */
